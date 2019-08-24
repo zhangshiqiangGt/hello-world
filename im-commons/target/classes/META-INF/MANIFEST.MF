@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: im-commons
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Alix
+Implementation-Vendor-Id: com.laixun.im
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

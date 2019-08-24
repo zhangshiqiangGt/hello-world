@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "zookeeper",
+      "type": "com.im.commons.zookeeper.properties.ZookeeperProperties",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "zookeeper.base-sleep-time-ms",
+      "type": "java.lang.Integer",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    },
+    {
+      "name": "zookeeper.connection-timeout-ms",
+      "type": "java.lang.Integer",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    },
+    {
+      "name": "zookeeper.digest",
+      "type": "java.lang.String",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    },
+    {
+      "name": "zookeeper.max-retries",
+      "type": "java.lang.Integer",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    },
+    {
+      "name": "zookeeper.namespace",
+      "type": "java.lang.String",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    },
+    {
+      "name": "zookeeper.server",
+      "type": "java.lang.String",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    },
+    {
+      "name": "zookeeper.session-timeout-ms",
+      "type": "java.lang.Integer",
+      "sourceType": "com.im.commons.zookeeper.properties.ZookeeperProperties"
+    }
+  ],
+  "hints": []
+}
